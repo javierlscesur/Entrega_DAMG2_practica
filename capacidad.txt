@@ -1,1 +1,6 @@
 Este es el archivo CAPACIDAD
+
+
+
+
+También añado diferentes valores en CAPACIDAD para añadir al repositorio final.
